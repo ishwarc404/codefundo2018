@@ -1,5 +1,3 @@
-# codefundo2018
-Codefundo 2018 project :  Natural Disaster Prediction
 # PREDICTING HURRICANES AND DEVELOPING A GENERALIZED RESCUE OPTIMISATION MODEL
 
 
@@ -47,7 +45,6 @@ avg Acc : 93%  with 33% Train data
 * Virtual Networks
 * Lots of VMs
 * AzureML Webservices 
-
 
 
 
